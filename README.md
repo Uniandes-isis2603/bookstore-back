@@ -25,7 +25,7 @@ Servir como **referencia** para que los equipos:
 ```plaintext
 ├── main                # Rama principal con el estado final completo
 ├── persistencia        # Primera etapa de desarrollo del proyecto
-├── logica              # Continuación a persistencia añadiendo lógica y pruebas
+├── logica-entidades    # Implementación de la lógica de las entidades
 └── ...
 ```
 
